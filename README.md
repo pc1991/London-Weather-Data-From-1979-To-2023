@@ -1,4 +1,10 @@
 # London-Weather-Data-From-1979-To-2023
+Courtesy: Klein Tank, A.M.G. and Coauthors, 2002. 
+
+Daily dataset of 20th-century surface air temperature and precipitation series for the European Climate Assessment. International Journal of Climatology, 22, 1441-1453.
+
+Data and metadata are available at http://www.ecad.eu.
+
 London Weather Data From 1979 To 2023
 
 Dataset Overview
